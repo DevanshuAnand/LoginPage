@@ -3,7 +3,7 @@
     padding: 0px;
     box-sizing: content-box;
     font-family: 'Poppins';
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-image: url(wood-1759566_1920.jpg);
 }
 
